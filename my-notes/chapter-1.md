@@ -6,7 +6,7 @@
 
 **Data Lifecycle**: The life of data from source system to destination BI system/consumer.
 
-![Data Lifecycle](assets/data_dlc.png)
+![Data Lifecycle](../assets/data_dlc.png)
 
 **Data Warehouse**: Refers to the system/tool that can enable data to be ingested and interacted with. It consists of the following components as one combined toolset. e.g BigQuery, Snowflake
 
@@ -15,7 +15,7 @@
 * Schema (description of the data format/layout)  
 * Query Interface (UI/tooling to interact with the data)
 
-![Warehouse](assetsdatawarehouse.png)
+![Warehouse](../assets/datawarehouse.png)
 
 **Data Lake**: Refers to the system or set of systems that allow both structured or unstructured data to be ingested, stored, governed and interacted with. It can contain one or more components of a Data Warehouse. e.g Google Cloud Storage, Apache Iceberg
 
@@ -34,13 +34,13 @@ The five Vs of data: _volume_, _variety_, _velocity_, _veracity_, and _value_.
 
 **Distributed File System**: A solution for Big Data storage for data that doens't easily fit in a reasonable storage device in one server. e.g 1PB of data in a 10TB server. Hadoop is an opensource solution that enables a distributed file storage.
 
-![DFS](assets/dfs.png)
+![DFS](../assets/dfs.png)
 
 **MapReduce**: A solution/algorithm that allows accessing data stored in a DFS. e.g BigQuery processes data in a distributed manner when we run a query on a PB of data.
 
     Map->Shuffle->Reduce->Result. 
 
-![MapReduce](assets/mapreduce.png)
+![MapReduce](../assets/mapreduce.png)
 **Current Data Tech Stack**
 
 * Data Lake: GCS   
