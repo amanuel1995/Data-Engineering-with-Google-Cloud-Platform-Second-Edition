@@ -1,6 +1,6 @@
 # My GCP Data Engineering Exercises
 
-This collection of case studies and their solutions is a place where I solve exercises from Adi Wijaya's [Data Engineering with Google Cloud Platform](https://www.packtpub.com/product/data-engineering-with-google-cloud-platform/97818). Each case presents a data problem and I try to iteratively solve it by applying what I learned in my workplace building data platforms and solving common data engineering challenges using Google Cloud Platform.
+This collection of case studies and their solutions is a place where I solve exercises from Adi Wijaya's [Data Engineering with Google Cloud Platform](https://www.packtpub.com/product/data-engineering-with-google-cloud-platform/9781835080115). Each case presents a data problem and I try to iteratively solve it by applying what I learned in my workplace building data platforms and solving common data engineering challenges using Google Cloud Platform.
 
 ---
 
